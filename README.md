@@ -1,4 +1,4 @@
-# d3 ford examples
+# Vue + D3: Ford DataViz
 
 ## Project demo
 You can check this project's demo right here: https://adx-ford-0e1aab.netlify.app/ 
